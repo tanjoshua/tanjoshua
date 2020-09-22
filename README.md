@@ -21,7 +21,7 @@ Hi, I am Joshua Tan, a Sophomore studying Computer Science at Brown University. 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.NET)
 
-### Others
+#### Others
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
