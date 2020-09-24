@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Hi, I am Joshua Tan, a Sophomore studying Computer Science at Brown University. Some people call me Josh but I'm fine with Joshua too. I love learning about and creating applications that makes our lives better.
+Hi, I am Joshua Tan, a Sophomore studying Computer Science at Brown University. Some people call me Josh but I'm fine with Joshua too. I love learning about and creating applications that make our lives better.
 
 #### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Joshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatan313/)](https://www.linkedin.com/in/joshuatan313/)
@@ -17,7 +17,8 @@ Hi, I am Joshua Tan, a Sophomore studying Computer Science at Brown University. 
 ![Reason](https://img.shields.io/badge/-Reason-black?style=flat-square&logo=Reason)
 
 #### Frameworks
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.NET)
 
