@@ -1,9 +1,9 @@
 ### Hey there 👋
 
-Hi, I'm Joshua, a Sophomore studying Computer Science at Brown University. I am an aspiring full stack developer with big dreams.
+Hi, I'm Joshua, an aspiring full stack developer with big dreams. Currently studying Computer Science and Economics at Brown University.
 
 #### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-Joshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatan313/)](https://www.linkedin.com/in/joshuatan313/)
+[![Linkedin Badge](https://img.shields.io/badge/-Joshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatan313/)](https://www.linkedin.com/in/tjoshua/)
 [![Gmail Badge](https://img.shields.io/badge/-joshua__tan@brown.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshua_tan@brown.edu)](mailto:joshua_tan@brown.edu)
 
 ## Technologies I've worked with
