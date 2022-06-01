@@ -9,8 +9,10 @@ Hi, I'm Joshua, an aspiring full stack developer with big dreams. Currently stud
 ## Technologies I've worked with
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=golang)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
