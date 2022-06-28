@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Hi, I'm Joshua, an aspiring full stack developer with big dreams. Currently studying Computer Science and Economics at Brown University.
+Hi, I'm Joshua, an aspiring full stack developer. Currently studying Computer Science and Economics at Brown University.
 
 #### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Joshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatan313/)](https://www.linkedin.com/in/tjoshua/)
