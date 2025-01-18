@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Studying Computer Science and Economics at Brown University. I like to build things.
+Studied Computer Science and Economics at Brown University. I like to build things.
 
 #### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Joshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatan313/)](https://www.linkedin.com/in/tjoshua/)
