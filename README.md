@@ -1,26 +1,3 @@
 ### Hey there 👋
 
-Studied Computer Science and Economics at Brown University. I like to build things.
-
-#### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-Joshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatan313/)](https://www.linkedin.com/in/tjoshua/)
-[![Gmail Badge](https://img.shields.io/badge/-me@tanjoshua.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshua_tan@brown.edu)](mailto:me@tanjoshua.com)
-
-
-
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanjoshua&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanjoshua&theme=dark)](https://git.io/streak-stats)
-<!--
-**tanjoshua/tanjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studied Computer Science and Economics at Brown University. I am interested in the protocols and technologies that power the internet.
